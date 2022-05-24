@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VS-Code-Themed-Portfolio/static/css/main.62311798.css",
-    "main.js": "/VS-Code-Themed-Portfolio/static/js/main.e4456f79.js",
+    "main.js": "/VS-Code-Themed-Portfolio/static/js/main.94182f60.js",
     "static/js/787.ecc0a127.chunk.js": "/VS-Code-Themed-Portfolio/static/js/787.ecc0a127.chunk.js",
     "static/media/SeleniumLogo.png": "/VS-Code-Themed-Portfolio/static/media/SeleniumLogo.8acd00a91ebc15e2633e.png",
     "static/media/ReactLogo.png": "/VS-Code-Themed-Portfolio/static/media/ReactLogo.37940586dd863909ffca.png",
@@ -14,11 +14,11 @@
     "static/media/JsLogo.png": "/VS-Code-Themed-Portfolio/static/media/JsLogo.db393457bf6303d846d6.png",
     "index.html": "/VS-Code-Themed-Portfolio/index.html",
     "main.62311798.css.map": "/VS-Code-Themed-Portfolio/static/css/main.62311798.css.map",
-    "main.e4456f79.js.map": "/VS-Code-Themed-Portfolio/static/js/main.e4456f79.js.map",
+    "main.94182f60.js.map": "/VS-Code-Themed-Portfolio/static/js/main.94182f60.js.map",
     "787.ecc0a127.chunk.js.map": "/VS-Code-Themed-Portfolio/static/js/787.ecc0a127.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62311798.css",
-    "static/js/main.e4456f79.js"
+    "static/js/main.94182f60.js"
   ]
 }
